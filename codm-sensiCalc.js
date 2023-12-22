@@ -1,5 +1,6 @@
 
-
+/* https://drive.google.com/file/d/1n8_dUwYw9pQaBHZGOW63k_L4_3ciLqmc/view?pli=1
+configurar o aim champ */
 let 
    _ = ( ...v ) => console.log( ...v ),
    value = [ 52,
