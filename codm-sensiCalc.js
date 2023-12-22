@@ -31,7 +31,7 @@ let
    ],
 
    fov = 54,
-   standardSensi = 82
+   standardSensi = 822
 ;
 
 function Sensi( v ) {
