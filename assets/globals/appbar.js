@@ -86,7 +86,7 @@ addEventListener( "load", ev => {
             window.open( "https://Ceo-js.github.io/codm", "_self" );
          } );
          this.shadowRoot.querySelector( "t1 > t" ).addEventListener( "click", ev => {
-            window.open( "./pages/codm-calc.html", "_self" );
+            window.open( "https://ceo-js.github.io/codm/pages/codm-calc.html", "_self" );
          } );
 
          /*  */
