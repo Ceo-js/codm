@@ -30,6 +30,8 @@ let appbarTemplate =
       font-size: 1.2rem;
       text-align: center;
    }
+   appbar-body > t1 > svg, 
+   appbar-body > t1 > t { cursor: pointer; }
 </style>
 <AppBar-Body>
    <t1>

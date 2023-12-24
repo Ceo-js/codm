@@ -78,6 +78,9 @@ label {
    border: transparent;
    padding: 0.5rem;
 }
+codm-calculator input[type="number"] {
+   background: #212329;
+}
 
 tt {
    font-family: "Hitmarker Text Bold";

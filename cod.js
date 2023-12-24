@@ -30,14 +30,14 @@ _( 2300 - draw.reduce( ( a, b ) => ( a + b ) ) );
 let sens = {
    camera: {
       padrão: 86, // 82
-      mira: 167,  // 81
+      mira:   167,// 81
       redDot: 167,// 71
       tatico: 136,// 
       sniper: 187,// 51
    },
    disparo: {
       padrão: 95, // 75
-      mira: 167,  // 75
+      mira:   167,// 75
       redDot: 167,// 72
       tatico: 121,// 
       sniper: 187,// 54
